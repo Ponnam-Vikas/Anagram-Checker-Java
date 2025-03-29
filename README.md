@@ -1,3 +1,4 @@
+![Screenshot 2025-03-29 151508](https://github.com/user-attachments/assets/b2a88e9d-9980-4930-9035-ba7d84a40726)
 # Anagram Checker
 
 ## Project Description
